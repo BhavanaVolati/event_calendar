@@ -3,6 +3,7 @@
 
 This Continuous Event Calendar is a bare-bones calendar built with React and Tailwindcss.
 
+[Live Demo](https://event-calendar-seven-weld.vercel.app/)
 ### So what does it do?
 
 - Displays 12 months at once, with respect to the specified year.
